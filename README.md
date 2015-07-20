@@ -1,13 +1,13 @@
-# factory-angular-channels [![Build Status](https://travis-ci.org/ng-tools/factory-angular-channels.svg?branch=master)](https://travis-ci.org/ng-tools/factory-angular-channels)
+# factory-angular2-channels [![Build Status](https://travis-ci.org/ng-tools/factory-angular2-channels.svg?branch=master)](https://travis-ci.org/ng-tools/factory-angular2-channels)
 
-> Reusable transform stream channels for your daily AngularJS workflow
+> Reusable transform stream channels for your daily Angular2 workflow
 
 ## Getting Started
 
 This plugin requires [ngFactory]() `^0.6`
 
 ```shell
-npm install factory-angular-channels --save-dev
+npm install factory-angular2-channels --save-dev
 ```
 
 ## Usage
@@ -27,7 +27,7 @@ var config = {
 };
 
 var reload = require('browser-sync').reload;
-var channels = require('factory-angular-channels');
+var channels = require('factory-angular2-channels');
 
 var src = config.src;
 gulp.task('src/views', function() {
@@ -60,7 +60,7 @@ Please submit all pull requests the against master branch. If your unit test con
 
     The MIT License
 
-    Copyright (c) 2014 Olivier Louvignes
+    Copyright (c) 2014-2015 Olivier Louvignes
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
