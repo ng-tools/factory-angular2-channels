@@ -36,7 +36,7 @@
     "gulp-match": "^0.2.1",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^2.0.4",
-    "gulp-size": "^1.2.3",
+    "gulp-size": "^2.0.0",
     "gulp-sourcemaps": "^1.5.2",
     "gulp-uglify": "^1.2.0",
     "lodash": "^3.10.0",
@@ -46,7 +46,7 @@
     "resolve-require": "^0.2.0",
     "sort-stream": "^1.0.1",
     "stream-combiner2": "^1.0.2",
-    "systemjs-builder": "^0.12.2",
+    "systemjs-builder": "^0.13.3",
     "through2": "^2.0.0",
     "vinyl": "^0.5.0",
     "vinyl-fs": "^1.0.0"
