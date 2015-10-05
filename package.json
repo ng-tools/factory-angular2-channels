@@ -21,7 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "babel-core": "mgcrea/babel-core",
-    "babel-plugin-angular2": "mgcrea/babel-plugin-angular2",
+    "babel-plugin-angular2-annotations": "mgcrea/babel-plugin-angular2",
     "babel-plugin-flow-comments": "^1.0.9",
     "chalk": "^1.1.1",
     "gulp-autoprefixer": "^3.0.2",
